@@ -1,0 +1,29 @@
+<application>
+  <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine level:error " />
+    <option name="nonFavorites">
+      <list>
+        <option value="package:mine level:error " />
+        <option value="package:mine" />
+        <option value="package:mine " />
+        <option value="package:mine level:debug AuSub" />
+        <option value="package:mine level:debug  AudSub" />
+        <option value="package:mine level:debug  AuSubs" />
+        <option value="package:mine AuSubs" />
+        <option value="package:com.example.rickandmorty CharacterFragment" />
+        <option value="package:com.example.rickandmorty onDestroyView" />
+        <option value="package:com.example.rickandmorty LeakCanary" />
+        <option value="package:mine AuSub" />
+        <option value="package:mine CurrentAudio" />
+        <option value="package:mine LeakCanary" />
+        <option value="package:mine LeakCannary" />
+        <option value="package:mine Leak" />
+        <option value="package:mine isTrailer" />
+        <option value="package:mine Tune" />
+        <option value="package:mine PayloadType" />
+        <option value="package:mine PaylaodType" />
+        <option value="package:mine Channel" />
+      </list>
+    </option>
+  </component>
+</application>

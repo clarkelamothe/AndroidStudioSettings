@@ -1,0 +1,86 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State />
+              <State>
+                <id>Android</id>
+              </State>
+              <State>
+                <id>Class structureJava</id>
+              </State>
+              <State>
+                <id>Code maturityJava</id>
+              </State>
+              <State>
+                <id>Compiler issuesJava</id>
+              </State>
+              <State>
+                <id>InteroperabilityLintAndroid</id>
+              </State>
+              <State>
+                <id>JVM languages</id>
+              </State>
+              <State>
+                <id>Java</id>
+              </State>
+              <State>
+                <id>Java 5Java language level migration aidsJava</id>
+              </State>
+              <State>
+                <id>Java 8Java language level migration aidsJava</id>
+              </State>
+              <State>
+                <id>Java language level migration aidsJava</id>
+              </State>
+              <State>
+                <id>JavadocJava</id>
+              </State>
+              <State>
+                <id>Kotlin</id>
+              </State>
+              <State>
+                <id>LintAndroid</id>
+              </State>
+              <State>
+                <id>Numeric issuesJava</id>
+              </State>
+              <State>
+                <id>PerformanceJava</id>
+              </State>
+              <State>
+                <id>Test frameworksJVM languages</id>
+              </State>
+              <State>
+                <id>TestNGJava</id>
+              </State>
+              <State>
+                <id>Threading issuesJava</id>
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>Android</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="ProjectViewState">
+        <option name="autoscrollFromSource" value="true" />
+        <option name="autoscrollToSource" value="true" />
+        <option name="hideEmptyMiddlePackages" value="true" />
+        <option name="showLibraryContents" value="true" />
+      </component>
+      <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "last_opened_file_path": "C:/Users/Clarke/AndroidStudioProjects/Others",
+    "settings.editor.selected.configurable": "AndroidSdkUpdater"
+  }
+}]]></component>
+    </defaultProject>
+  </component>
+</application>
