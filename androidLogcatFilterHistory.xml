@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:com.example.marvelapp20 " />
+        <option value="package:com.example.marvelapp20 CharacterViewModel" />
         <option value="package:mine CharacterViewModel" />
         <option value="package:mine " />
         <option value="package:mine level:debug  CharacterViewModel" />
@@ -22,7 +23,6 @@
         <option value="package:mine AuSub" />
         <option value="package:mine CurrentAudio" />
         <option value="package:mine LeakCanary" />
-        <option value="package:mine LeakCannary" />
       </list>
     </option>
   </component>
