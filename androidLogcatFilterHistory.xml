@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.example.marvelapp20 " />
+    <option name="mostRecentlyUsed" value="package:com.example.marvelapp20 level:error" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.example.marvelapp20 level:error" />
         <option value="package:com.example.marvelapp20 " />
         <option value="package:com.example.marvelapp20 CharacterViewModel" />
         <option value="package:mine CharacterViewModel" />
@@ -22,7 +23,6 @@
         <option value="package:com.example.rickandmorty LeakCanary" />
         <option value="package:mine AuSub" />
         <option value="package:mine CurrentAudio" />
-        <option value="package:mine LeakCanary" />
       </list>
     </option>
   </component>
