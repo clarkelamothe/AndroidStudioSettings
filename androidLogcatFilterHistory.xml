@@ -1,14 +1,16 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:error " />
+    <option name="mostRecentlyUsed" value="package:mine CharacterViewModel" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine level:error " />
         <option value="package:mine CharacterViewModel" />
+        <option value="package:mine " />
+        <option value="package:mine level:debug  CharacterViewModel" />
+        <option value="package:mine level:error CharacterViewModel" />
+        <option value="package:mine level:error " />
         <option value="package:mine level:debug " />
         <option value="package:mine level:debug CharacterViewModel" />
         <option value="package:mine" />
-        <option value="package:mine " />
         <option value="package:mine level:debug AuSub" />
         <option value="package:mine level:debug  AudSub" />
         <option value="package:mine level:debug  AuSubs" />
@@ -21,8 +23,6 @@
         <option value="package:mine LeakCanary" />
         <option value="package:mine LeakCannary" />
         <option value="package:mine Leak" />
-        <option value="package:mine isTrailer" />
-        <option value="package:mine Tune" />
       </list>
     </option>
   </component>
