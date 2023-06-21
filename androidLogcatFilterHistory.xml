@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.example.marvelapp30 PagingS" />
+    <option name="mostRecentlyUsed" value="package:com.example.marvelapp30 okHtt" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.example.marvelapp30 okHtt" />
+        <option value="package:com.example.marvelapp30 " />
         <option value="package:com.example.marvelapp30 PagingS" />
         <option value="package:com.example.marvelapp30 PageS" />
         <option value="package:com.example.marvelapp30 PageSize" />
@@ -21,8 +23,6 @@
         <option value="package:mine" />
         <option value="package:mine level:debug AuSub" />
         <option value="package:mine level:debug  AudSub" />
-        <option value="package:mine level:debug  AuSubs" />
-        <option value="package:mine AuSubs" />
       </list>
     </option>
   </component>
