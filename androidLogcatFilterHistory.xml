@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:com.example.marvelapp30  " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.example.marvelapp30  " />
         <option value="package:mine " />
         <option value="package:mine Characterss" />
         <option value="package:com.example.marvelapp20 level:error" />
@@ -21,7 +23,6 @@
         <option value="package:com.example.rickandmorty CharacterFragment" />
         <option value="package:com.example.rickandmorty onDestroyView" />
         <option value="package:com.example.rickandmorty LeakCanary" />
-        <option value="package:mine AuSub" />
       </list>
     </option>
   </component>
