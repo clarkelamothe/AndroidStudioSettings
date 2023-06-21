@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.example.marvelapp30 PageSize" />
+    <option name="mostRecentlyUsed" value="package:com.example.marvelapp30 PagingS" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.example.marvelapp30 PagingS" />
+        <option value="package:com.example.marvelapp30 PageS" />
         <option value="package:com.example.marvelapp30 PageSize" />
         <option value="package:com.example.marvelapp30  " />
         <option value="package:mine " />
@@ -21,8 +23,6 @@
         <option value="package:mine level:debug  AudSub" />
         <option value="package:mine level:debug  AuSubs" />
         <option value="package:mine AuSubs" />
-        <option value="package:com.example.rickandmorty CharacterFragment" />
-        <option value="package:com.example.rickandmorty onDestroyView" />
       </list>
     </option>
   </component>
