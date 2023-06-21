@@ -1,15 +1,20 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.example.marvelapp30 okHtt" />
+    <option name="mostRecentlyUsed" value="package:com.example.marvelapp30 okHttp" />
     <option name="nonFavorites">
       <list>
-        <option value="package:com.example.marvelapp30 okHtt" />
+        <option value="package:com.example.marvelapp30 okHttp" />
+        <option value="package:com.example.marvelapp30 level:debug PagingS" />
         <option value="package:com.example.marvelapp30 " />
         <option value="package:com.example.marvelapp30 PagingS" />
+        <option value="package:com.example.marvek30 level:debug PagingS" />
+        <option value="package:com.example.marvek30 PagingS" />
+        <option value="package:com.example." />
+        <option value="package:mine " />
+        <option value="package:com.example.marvelapp30 okHtt" />
         <option value="package:com.example.marvelapp30 PageS" />
         <option value="package:com.example.marvelapp30 PageSize" />
         <option value="package:com.example.marvelapp30  " />
-        <option value="package:mine " />
         <option value="package:mine Characterss" />
         <option value="package:com.example.marvelapp20 level:error" />
         <option value="package:com.example.marvelapp20 " />
@@ -18,11 +23,6 @@
         <option value="package:mine level:debug  CharacterViewModel" />
         <option value="package:mine level:error CharacterViewModel" />
         <option value="package:mine level:error " />
-        <option value="package:mine level:debug " />
-        <option value="package:mine level:debug CharacterViewModel" />
-        <option value="package:mine" />
-        <option value="package:mine level:debug AuSub" />
-        <option value="package:mine level:debug  AudSub" />
       </list>
     </option>
   </component>
