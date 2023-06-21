@@ -3,6 +3,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine Characterss" />
         <option value="package:com.example.marvelapp20 level:error" />
         <option value="package:com.example.marvelapp20 " />
         <option value="package:com.example.marvelapp20 CharacterViewModel" />
@@ -21,7 +22,6 @@
         <option value="package:com.example.rickandmorty onDestroyView" />
         <option value="package:com.example.rickandmorty LeakCanary" />
         <option value="package:mine AuSub" />
-        <option value="package:mine CurrentAudio" />
       </list>
     </option>
   </component>
