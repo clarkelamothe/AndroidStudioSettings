@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:com.example.marvelapp30 " />
+        <option value="package:com.example.marvelapp30 loadKey" />
         <option value="package:com.example.marvelapp30 LoadKeyey" />
         <option value="package:com.example.marvelapp30 okHtt" />
         <option value="package:com.example.marvelapp30 PagingS" />
@@ -22,7 +23,6 @@
         <option value="package:com.example.marvelapp20 CharacterViewModel" />
         <option value="package:mine CharacterViewModel" />
         <option value="package:mine level:debug  CharacterViewModel" />
-        <option value="package:mine level:error CharacterViewModel" />
       </list>
     </option>
   </component>
