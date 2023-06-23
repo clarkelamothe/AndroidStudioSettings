@@ -58,6 +58,10 @@
           <option name="url" value="https://github.com/philipplackner/RoomGuideAndroid.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/chimydevs/ValkaApp.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Clarke\AndroidStudioProjects\Others" />
