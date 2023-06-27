@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.example.marvelapp30 okH" />
+    <option name="mostRecentlyUsed" value="package:com.example.marvelapp30 Comics" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.example.marvelapp30 Comics" />
         <option value="package:com.example.marvelapp30 okH" />
         <option value="package:com.example.marvelapp30 " />
         <option value="package:com.example.marvelapp30 EventF" />
@@ -22,7 +23,6 @@
         <option value="package:com.example." />
         <option value="package:mine " />
         <option value="package:com.example.marvelapp30 PageS" />
-        <option value="package:com.example.marvelapp30 PageSize" />
       </list>
     </option>
   </component>
