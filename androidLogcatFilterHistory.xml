@@ -1,14 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.example.marvelapp30 okHtt" />
+    <option name="mostRecentlyUsed" value="package:com.example.marvelapp30 level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.example.marvelapp30 level:error " />
         <option value="package:com.example.marvelapp30 okHtt" />
         <option value="package:com.example.marvelapp30 Firebase" />
         <option value="package:com.example.marvelapp30 ok" />
         <option value="package:com.example.marvelapp30 " />
         <option value="package:com.example.marvelapp30 ComicsTest" />
-        <option value="package:com.example.marvelapp30 level:error " />
         <option value="package:com.example.marvelapp30" />
         <option value="package:com.example.marvelapp30 okh" />
         <option value="package:com.example.marvelapp30 Comics" />
