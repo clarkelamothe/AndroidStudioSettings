@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.example.marvelapp30 Firebase" />
+    <option name="mostRecentlyUsed" value="package:com.example.marvelapp30 okHtt" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.example.marvelapp30 okHtt" />
         <option value="package:com.example.marvelapp30 Firebase" />
         <option value="package:com.example.marvelapp30 ok" />
         <option value="package:com.example.marvelapp30 " />
@@ -18,7 +19,6 @@
         <option value="package:com.example.marvelapp30 okhtt" />
         <option value="package:com.example.marvelapp30 loadKey" />
         <option value="package:com.example.marvelapp30 LoadKeyey" />
-        <option value="package:com.example.marvelapp30 okHtt" />
         <option value="package:com.example.marvelapp30 PagingS" />
         <option value="package:com.example.marvelapp30 okHttp" />
         <option value="package:com.example.marvelapp30 level:debug PagingS" />
